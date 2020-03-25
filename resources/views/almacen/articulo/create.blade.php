@@ -16,7 +16,7 @@
 
     <div class="box-body">
 	    
-            {!!Form::open(array('url'=>'almacen/articulo','method'=>'POST','autocomplete'=>'off'))!!}
+            {!!Form::open(array('url'=>'almacen/articulo','method'=>'POST','autocomplete'=>'off','file'=>'true'))!!}
             {{Form::token()}}
             <div class="form-group col-md-6">
                 <label for="nombre">Nombre</label>

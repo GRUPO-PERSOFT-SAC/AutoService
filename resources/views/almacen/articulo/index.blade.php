@@ -16,7 +16,7 @@
                                 <th>Codigo</th>
                                 <th>Categoría</th>
                                 <th>Stock</th>
-                      
+                    
                                 <th>Estado</th>
                                 <th>Opciones</th>
                             </tr>
@@ -52,6 +52,6 @@
                     {{$articulos->render()}}
         
             
-      </div>
+        </div>
 </div>
 @endsection

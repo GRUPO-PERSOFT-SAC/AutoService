@@ -105,7 +105,7 @@
         
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-pie-chart"></i>
+            <i class="fa fa-briefcase"></i>
             <span>Almacen</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
@@ -119,8 +119,8 @@
 
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-pie-chart"></i>
-            <span>ventas</span>
+            <i class="fa fa-shopping-cart"></i>
+            <span>ventas/Servicios</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
@@ -133,7 +133,7 @@
 
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-pie-chart"></i>
+            <i class="fa fa-cubes"></i>
             <span>Compras</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
@@ -147,7 +147,7 @@
 
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-pie-chart"></i>
+            <i class="fa fa-shield"></i>
             <span>Acceso</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
